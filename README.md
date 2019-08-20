@@ -5,6 +5,11 @@
 
 个人表单共两个页面 主页、已处理。
 
+![1](https://github.com/BaiTuBing/MyBiLL/blob/master/1.jpg)
+
+![2](https://github.com/BaiTuBing/MyBiLL/blob/master/2.jpg)
+
+![3](https://github.com/BaiTuBing/MyBiLL/blob/master/3.jpg)
 
 隐私策略：
 
